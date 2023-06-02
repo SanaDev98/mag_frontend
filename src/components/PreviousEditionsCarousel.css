@@ -1,0 +1,36 @@
+.carouselContainer {
+  margin-bottom: 70px;
+  position: relative;
+}
+
+.prevIcon {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  cursor: pointer;
+}
+
+.nextIcon {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  cursor: pointer;
+}
+
+.previousEditionDiv {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  /* background-color: aquamarine; */
+}
+
+.previousEdition {
+  height: 150px;
+  width: 100px;
+  margin: 0 auto;
+  background-color: #d9d9d9;
+}
+
+.slick-dots {
+  bottom: -40px;
+}

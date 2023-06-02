@@ -1,0 +1,22 @@
+.carouselContainer {
+  margin-bottom: 80px;
+  position: relative;
+}
+
+.prevIcon {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  cursor: pointer;
+}
+
+.nextIcon {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  cursor: pointer;
+}
+
+.slick-dots {
+  bottom: -50px;
+}

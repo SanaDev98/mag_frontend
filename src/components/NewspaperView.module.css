@@ -1,0 +1,22 @@
+.tagline {
+  font-size: 32px;
+  font-weight: 700;
+  color: #bf252a;
+}
+
+.viewSection {
+  width: 100%;
+  height: min-content;
+  background-color: #d9d9d9;
+  display: flex;
+  justify-content: space-around;
+}
+
+.demoPage {
+  background-color: white;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

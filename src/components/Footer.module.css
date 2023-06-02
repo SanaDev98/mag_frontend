@@ -1,0 +1,81 @@
+.footer {
+  background-color: #736e6e;
+  color: white;
+  margin-top: 30px;
+  border-radius: 0 40px 0 0;
+}
+
+.wannaKnowText {
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/* .footerTopRight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.btn {
+  width: 150px;
+  height: 50px;
+  background: #bf252a;
+  box-shadow: 0px 15px 30px rgba(0, 186, 199, 0.33);
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+
+.btnText {
+  margin-bottom: 0;
+  color: white;
+  font-weight: 600;
+}
+
+.bottomRow{
+  font-size: 14px;
+}
+
+.logo {
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.contactUsTitle {
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.callUsOn {
+  color: black;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.phoneNumbers {
+  margin-bottom: 0;
+}
+
+.emailTitle {
+  color: black;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.email {
+  margin-bottom: 0;
+}
+
+.getInTouch {
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.socialMedia {
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 0;
+  margin-top: 10px;
+}
